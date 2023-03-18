@@ -15,3 +15,8 @@ Features
 * Address Management
 * Coupons are provided for the discount
 * User Authentication before placing an order
+
+Some Sanpshots Of Website :
+
+![foodmartcover](https://user-images.githubusercontent.com/101566272/226125723-d4d60370-e880-4cfb-9124-d16ac0c239df.png) ![foodpage](https://user-images.githubusercontent.com/101566272/226125742-81bbd003-fd72-4fc4-8dc0-9672ef2a2c9d.png)
+
