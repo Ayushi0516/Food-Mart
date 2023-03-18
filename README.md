@@ -22,3 +22,6 @@ Some Sanpshots Of Website :
 ![trendingpage](https://user-images.githubusercontent.com/101566272/226125760-1a7575fa-a7cf-4e16-a0e6-62a703c05ef5.png)
 ![loginpage](https://user-images.githubusercontent.com/101566272/226125771-b0830cfd-2cb6-4edd-b9ab-ff95a1874d7d.png)
 
+Live Link
+
+foodmart-site.netlify.app/
