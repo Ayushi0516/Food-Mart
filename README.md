@@ -24,4 +24,3 @@ Some Sanpshots Of Website :
 
 Live Link
 
-foodmart-site.netlify.app/
